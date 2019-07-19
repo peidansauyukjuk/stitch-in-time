@@ -1,24 +1,23 @@
-# README
+# A STITCH IN TIME - DIGITALIZED STORYBOOK
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"A Stitch in Time" is a children's book that teaches how to leave a smaller carbon footprint by showing the importance of repairing and recycling. 
 
-Things you may want to cover:
+## FEATURES
 
-* Ruby version
+- Music
+- Screen Effects
+- Quizzes to engage readers
 
-* System dependencies
+## TECH
 
-* Configuration
+### FRONTEND
 
-* Database creation
+- HTML
+- CSS
+- Javascript
+- Materialize CSS
 
-* Database initialization
+### BACKEND
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby on Rails API
+- PostgreSQL
